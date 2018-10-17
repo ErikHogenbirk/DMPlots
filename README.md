@@ -1,6 +1,9 @@
 # DMPlots
 *Erik Hogenbirk, 2018, ehogenbi@nikhef.nl*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1400310.svg)](https://doi.org/10.5281/zenodo.1400310)
+
+
 ## Why this repo?
 Hi there! If you are looking at this page, you may have become frustrated at some point, by either pretty or ugly plots. 
 For the ugly plots, I just want to pull the data from them and make the plot myself.
