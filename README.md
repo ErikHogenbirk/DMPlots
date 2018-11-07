@@ -1,7 +1,7 @@
 # DMPlots
 *Erik Hogenbirk, 2018, ehogenbi@nikhef.nl*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1400310.svg)](https://doi.org/10.5281/zenodo.1400310)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1479669.svg)](https://doi.org/10.5281/zenodo.1479669)
 
 
 ## Why this repo?
