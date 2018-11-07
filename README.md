@@ -16,6 +16,21 @@ Or at least publish your raw points somewhere, so that we can eliminate the fine
 
 Sharing data is the future, stealing plots is OK! Just don't forget to properly reference!
 
+## What's in here?
+Good question! Here's a list:
+
+  * **Abundances**: a first shot at a plot showing the freeze-out atomic abundances of the first few elements, as a function of baryon fraction. This is not quite finished. Fix me!
+  * **Argon_waveforms**: simulated argon waveform pulse shapes.
+  * **Freezeout**: the famous dark matter abundance vs 'time' in the early universe.
+  * **Planck**: the CMB power spectrum, measured by Planck.
+  * **Rates**: WIMP-nucleus scattering rates, taking into account the form factor. Focused at xenon and argon, but may be extended.
+  * **RotationCurve**: rotation curve of M33.
+  * **TPCs**: dual-phase xenon TPCs as a function of time. This shows the limit vs time, as well as field. Please update once nT and LZ kick in!
+  * **Velocities**: isothermal WIMP velocity distribution, with and without Earth motion, and its modulation.
+  * **Xenon path length**: the path length of radiation in liquid xenon and in water.
+  
+
+
 ## Licence
 MIT License
 
